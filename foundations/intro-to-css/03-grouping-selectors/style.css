@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.clickMe {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.notClickMe {
+    background-color: #ffff00;
+}
+
+.clickMe , .notClickMe {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    cursor: pointer;
+}
